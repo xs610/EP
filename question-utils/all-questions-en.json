@@ -1,0 +1,36 @@
+[
+  {
+    "id": 0,
+    "question": "Do you have an income of 0 to 15,000€?",
+    "options": ["Yes", "No"]
+  },
+  {
+    "id": 1,
+    "question": "Which of the following applies to you?",
+    "options": [
+      "I am a Greek citizen and have been permanently residing in the country for the last 5 years",
+      "I am not a Greek citizen, but I have been legally and permanently residing in the country for the last 12 years",
+      "None of the above"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Which of the following categories do you belong to?",
+    "options": [
+      "Greek citizens",
+      "Foreign nationals of Greek origin who hold a Special Identity Card for expatriates and a valid residence permit",
+      "Citizens of EU member states",
+      "Citizens of countries belonging to the European Economic Area (Norway, Iceland, and Liechtenstein) and Swiss citizens",
+      "Recognized refugees who permanently reside in Greece, whose residency status is governed by the provisions of the 1951 Refugee Convention as amended by the 1967 New York Protocol",
+      "Stateless persons whose residency status in Greece is governed by the provisions of the 1954 Convention relating to the Status of Stateless Persons",
+      "Beneficiaries of humanitarian protection status",
+      "Citizens of other states",
+      "None of the above"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Do you have dependent children?",
+    "options": ["Yes", "No"]
+  }
+]
